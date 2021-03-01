@@ -14,4 +14,8 @@ Site deploys properly and efficiently from live site link and is user ready.
 
 ## Screenshot of Main Page
 
+![Work-Day-Scheduler](https://user-images.githubusercontent.com/75143471/109443266-1c6a7d00-7a08-11eb-8e94-7243731ad1ee.png)
+
 ## License
+
+...
